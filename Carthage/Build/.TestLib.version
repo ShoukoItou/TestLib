@@ -1,0 +1,19 @@
+{
+  "Mac" : [
+
+  ],
+  "watchOS" : [
+
+  ],
+  "tvOS" : [
+
+  ],
+  "commitish" : "16f5e372ba60820c0fcb387835480c980ae80459",
+  "iOS" : [
+    {
+      "name" : "TestLib",
+      "hash" : "0e141faeaa971dafc17a8399c64d37e0734506980300da1e31089c6169424cd0",
+      "swiftToolchainVersion" : "5.1 (swiftlang-1100.0.270.13 clang-1100.0.33.7)"
+    }
+  ]
+}
